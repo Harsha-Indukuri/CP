@@ -1,5 +1,5 @@
 #include<iostream>
-
+//link to problem: https://codeforces.com/problemset/problem/1954/B
 using namespace std;
 
 int min_finder(int *gaps, int k){
