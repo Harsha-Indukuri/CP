@@ -1,1 +1,1 @@
-Log of my solutions to some of the problems in Codeforces' Problem Sets
+Solutions to some problems from the Problem Set in codeforces
