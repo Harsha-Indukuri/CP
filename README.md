@@ -1,1 +1,1 @@
-My solutions to problems from codeforces
+A log of my solutions to problems from codeforces.
